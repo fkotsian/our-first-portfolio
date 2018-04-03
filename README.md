@@ -10,10 +10,11 @@ We made this together!
     - `git commit -m "Tell us about your file"`
     - `git log` (you should see your commit)
 - Push it to this repo!
+-   - `git push origin master`
     - see whatcha get
 
 ## Have fun!
 
 Git is fun!
 
-[Have an Octocat](https://octodex.github.com/images/founding-father.jpg)
+![alt text](https://octodex.github.com/images/founding-father.jpg "Have an Octocat")
