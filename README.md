@@ -11,3 +11,5 @@ We made this together!
     - `git log` (you should see your commit)
 - Push it to this repo!
     - see whatcha get
+
+## Have fun!
