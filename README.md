@@ -13,3 +13,7 @@ We made this together!
     - see whatcha get
 
 ## Have fun!
+
+Git is fun!
+
+[Have an Octocat](https://octodex.github.com/images/founding-father.jpg)
