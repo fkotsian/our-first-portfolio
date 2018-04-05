@@ -1,7 +1,9 @@
 .navbar {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     justify-content: flex-end;
+    border: 10px;
+    background-color: yellow;
 }
 
 .navbar a {
